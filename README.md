@@ -108,11 +108,33 @@ Initial Playlist
 
 Play Forward
 
+Playing playlist from start;
+
+1. Bohemian Rhapsody by Queen [5:55]
+2. Imagine by John Lennon [3:03]
+3. Hotel California by Eagles [6:30]
+4. Hey Jade by The Beatles [7:30]
+5. Smells Like Teen Spirit by Nirvana [4:39]
 
 Play Backward
 
+Playing playlist from end;
+
+1. Smells Like Teen Spirit by Nirvana [4:39]
+2. Hey Jade by The Beatles [7:30]
+3. Hotel California by Eagles [6:30]
+4. Imagine by John Lennon [3:03]
+5. Bohemian Rhapsody by Queen [5:55]
 
 Removing Songs
+
+- Removing Hey Jade: Success
+  
+  Removed song: Hey Jade
+ 
+- Removing Shape of You: Throws exception
+ 
+  Song with title 'Shape of You' not found.
 
 # Future Enhancements
 
